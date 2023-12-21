@@ -1,3 +1,5 @@
+FROM alpine:3.15
+
 LABEL maintainer="Vladislav Pavlovski <vladislav.pavlovski@gmail.com>"
 
 ADD install.sh install.sh
