@@ -1,4 +1,4 @@
-LABEL maintainer="Johannes Schickling <schickling.j@gmail.com>"
+LABEL maintainer="Vladislav Pavlovski <vladislav.pavlovski@gmail.com>"
 
 ADD install.sh install.sh
 RUN sh install.sh && rm install.sh
