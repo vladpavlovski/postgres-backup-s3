@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 # exit if a command fails
 set -eo pipefail
